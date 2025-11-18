@@ -1,4 +1,3 @@
-#TO DO - PUT THE FRIES IN THE BAG/WRAP IT UP - 
 
 import os
 import smtplib
@@ -6,7 +5,7 @@ import smtplib
 
 #tinker holds tkinter library
 import tkinter as tinker
-program_email = "gridmanager215@gmail.com"
+program_email = "YOU'LL NEVER KNOW EXCEPT ME"
 # Prompt user to choose between creating a new folder or using an existing one
 create = input("1.) Create a folder to store these passwords, 2.) Store in existing folder, 3.)Password Tester")
 
